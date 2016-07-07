@@ -1,2 +1,2 @@
-# Fear of God
-a website for a clothing brand.
+# Usagi Creative Studio
+a website for company that designs brand
