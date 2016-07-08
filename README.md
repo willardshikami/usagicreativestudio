@@ -1,2 +1,2 @@
 # Usagi Creative Studio
-a website for company that designs brands
+A website for a company that designs brands
