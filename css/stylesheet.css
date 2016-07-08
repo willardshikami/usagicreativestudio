@@ -98,7 +98,6 @@ ul li {
     font-weight: 300;
     padding: 100px;
     padding-top: 0px
-
 }
 
 .print img,
@@ -106,12 +105,10 @@ ul li {
     width: 50%;
 }
 
-.print p {
-    
-}
 
 .digital {
     text-align: center;
     width: 50%;
     float: right;
+    background: #f6f7f7;
 }
