@@ -12,7 +12,7 @@
    *    without disabling user zoom.
    */
 html {
-  font-family: sans-serif;
+  font-family: 'Lato';
   /* 1 */
   -ms-text-size-adjust: 100%;
   /* 2 */
@@ -76,6 +76,42 @@ ul li {
     color: #fff;
 }
 
-.head:after {
-    clear: both;
+.header-content {
+    font-size: 30px;
+    padding-top: 200px; 
+    text-align: center;
+}
+
+.print {
+    text-align: center;
+    float: left;
+    width: 50%;
+}
+
+.print h4,
+.digital h4 {
+    font-weight: 300;
+}
+
+.print p,
+.digital p {
+    font-weight: 300;
+    padding: 100px;
+    padding-top: 0px
+
+}
+
+.print img,
+.digital img {
+    width: 50%;
+}
+
+.print p {
+    
+}
+
+.digital {
+    text-align: center;
+    width: 50%;
+    float: right;
 }
