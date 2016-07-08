@@ -56,8 +56,26 @@ summary {
     height: 650px;
 }
 
+.head h1 {
+    padding: 30px;
+    float: left;
+}
+
+nav {
+    text-align: right;
+    padding: 30px;
+    word-spacing: 50px;
+}
+
+ul li {
+    display: inline-block;
+}
 
 .head a {
     text-decoration: none;
     color: #fff;
+}
+
+.head:after {
+    clear: both;
 }
