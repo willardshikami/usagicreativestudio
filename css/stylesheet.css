@@ -83,14 +83,32 @@ ul li {
 }
 
 
-
 .span_2_of_2 {
 	width: 100%;
 }
 
 .span_1_of_2 {
 	width: 49.2%;
+    text-align: center;
 }
+
+
+.span_1_of_2 img {
+    width: 50%;
+}
+
+.span_1_of_2 h4{
+    font-weight: 300;
+}
+
+.span_1_of_2 p {
+    font-weight: 300;
+}
+
+.digital {
+    background: #f6f7f7;
+}
+
  GO FULL WIDTH AT LESS THAN 480 PIXELS 
 
 @media only screen and (max-width: 480px) {
@@ -103,7 +121,7 @@ ul li {
 }
 
 
-/*  SECTIONS  ============================================================================= */
+/*  SECTIONS  */
 
 .section {
 	clear: both;
@@ -111,7 +129,7 @@ ul li {
 	margin: 0px;
 }
 
-/*  GROUPING  ============================================================================= */
+/*  GROUPING */
 
 
 .group:before,
@@ -126,7 +144,7 @@ ul li {
     zoom:1; /* For IE 6/7 (trigger hasLayout) */
 }
 
-/*  GRID COLUMN SETUP   ==================================================================== */
+/*  GRID COLUMN SETUP   */
 
 .col {
 	display: block;
@@ -144,48 +162,6 @@ ul li {
 		margin: 1% 0 1% 0%;
 	}
 }
-
-
-
-
-
-
-
-.what-we-do {
-    width: 100%;
-}
-
-.print {
-    text-align: center;
-    float:left;
-    width: 45%;
-    clear: both;
-}
-
-.print h4,
-.digital h4 {
-    font-weight: 300;
-}
-
-.print p,
-.digital p {
-    font-weight: 300;
-    padding: 60px 40px;
-}
-
-.print img,
-.digital img {
-    width: 50%;
-}
-
-
-.digital {
-    text-align: center;
-    width: 50%;
-    float: right;
-    background: #f6f7f7;
-}
-
 
 .plain {
     padding: 100px;
