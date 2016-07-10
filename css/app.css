@@ -152,3 +152,14 @@ ul li {
     text-align: center;
     padding: 90px;
 }
+
+.footer {
+    background: #52575d;
+    color: #fff;
+    text-align: center;
+    padding: 100px;
+}
+
+.footer nav {
+    text-align: center;
+}
