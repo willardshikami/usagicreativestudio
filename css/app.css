@@ -32,6 +32,11 @@ ul li {
     text-align: center;
 }
 
+/*
+  ========================================
+  What we do section
+  ========================================
+*/
 
 .span_2_of_2 {
 	width: 100%;
@@ -115,4 +120,29 @@ ul li {
 
 .plain {
     padding: 100px;
+    text-align: center;
+}
+
+/*
+  ========================================
+  Who We Are
+  ========================================
+*/
+
+.who-we-are {
+    background: #52575d;
+    color: #fff;
+    text-align: center;
+}
+
+.who-we-are h1 {
+    font-size: 80px;
+}
+
+.who-we-are p {
+    padding-top: 20px;
+}
+
+.who-we-are h4{
+    font-size: 18px;
 }
