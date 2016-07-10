@@ -133,6 +133,7 @@ ul li {
     background: #52575d;
     color: #fff;
     text-align: center;
+    padding: 50px;
 }
 
 .who-we-are h1 {
@@ -145,4 +146,9 @@ ul li {
 
 .who-we-are h4{
     font-size: 18px;
+}
+
+.text {
+    text-align: center;
+    padding: 90px;
 }
